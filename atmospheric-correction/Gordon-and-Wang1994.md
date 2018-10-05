@@ -5,5 +5,4 @@ algorithm to utilize the new
 spectral bands and the increased sensitivity to improve
 the accuracy of the pigment retrieval. A by- product of this atmospheric-correction algorithm is
 an estimate of the aerosol optical thickness.
-### 大气校正就是需要从如下式子中得到water-leaving reflectance(Pw)
-Pt(A) = Pr(X) + Pa(X) + Pra(X) + Pg(X) + tPw(X)
+### 大气校正就是需要从公式中得到water-leaving reflectance
